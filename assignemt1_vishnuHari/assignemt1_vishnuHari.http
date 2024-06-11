@@ -1,0 +1,6 @@
+@assignemt1_vishnuHari_HostAddress = http://localhost:5018
+
+GET {{assignemt1_vishnuHari_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
